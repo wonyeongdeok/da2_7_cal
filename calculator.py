@@ -5,3 +5,6 @@ def plus(a, b):
 
 def minus(a, b):
     return a - b
+
+def kobsem(a, b):
+    return a * b
